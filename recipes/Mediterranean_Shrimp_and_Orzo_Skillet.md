@@ -1,5 +1,5 @@
 # Mediterranean Shrimp & Orzo Skillet
-*Mediterranean · weeknight · ~25 min · ~40g protein · ~545 cal*
+*Greek/Mediterranean · Weekend · ~25 min · ~40g protein · ~545 cal per serving*
 
 ## Ingredients (2 servings)
 - 10 oz large shrimp, peeled and deveined (thawed if frozen)
@@ -26,5 +26,7 @@
 5. Finish with lemon juice/zest, feta, and parsley.
 
 ## Notes
+- **Shrimp doesn't reheat well — cook and eat same night.** Placed on the weekend by design; portion for one sitting rather than planning leftovers off this dish.
 - Orzo comes in a 1 lb box — you'll use about a third.
 - Shares garlic, red onion, cherry tomatoes, lemon, feta, parsley, and olive oil with the week.
+- Zero Greek yogurt (feta is the only dairy, used as a topping, not a sauce body).

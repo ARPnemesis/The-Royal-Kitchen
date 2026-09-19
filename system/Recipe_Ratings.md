@@ -376,3 +376,46 @@ Each entry follows this structure:
 - Cook again: Yes
 - Difficulty: As expected
 - Notes: "Delicious." First Chicken Karahi on file — immediate 5★ hit, zero substitutions. Built specifically to avoid the yogurt/cream reheat flaw seen elsewhere (per the Chef's 08-14 build notes); no reheat complaint logged.
+
+### Turkey Shepherd's Pie with Cheddar-Chive Mash
+- Week: 2026-08-31
+- Stars: 5/5
+- Cook again: Yes
+- Difficulty: As expected
+- Notes: — Carried from week 2026-08-24 (ledger `CARRIED FROM 2026-08-24`), cooked Mon 08-31; attributed here to the week actually eaten.
+
+### Salmon Tacos with Mango-Corn Salsa
+- Week: 2026-08-31
+- Stars: 5/5
+- Cook again: Yes
+- Difficulty: As expected
+- Notes: — Second serving of this dish (first was 2026-07-13, also 5★, "10/10") — a confirmed recycle-worthy repeat, not a new preparation. Salmon remains 5-for-5 distinct preparations at 4★+.
+
+### Hawaiian-Style Turkey Meatballs with Pineapple Fried Rice
+- Week: 2026-08-31
+- Stars: 5/5
+- Cook again: Yes
+- Difficulty: As expected
+- Notes: — First Hawaiian/Pacific dish in the kitchen; immediate 5★ hit, zero substitutions logged.
+
+### Brazilian Garlic Butter Steak Bowls
+- Week: 2026-09-07
+- Stars: 5/5
+- Cook again: Yes
+- Difficulty: As expected
+- Notes: — **Cross-week attribution, not an 08-31 rating.** Ledger shows this dish annotated `(DROPPED 2026-09-05 — not cooked in this week; CARRIED TO 2026-09-07)` on the 08-31 slate — it was never cooked during week 08-31, and Current_Week.md's 2026-09-09 day-map confirms it was actually cooked Mon 2026-09-07. Sean's 2026-08-31-week submission (landed 2026-09-11) rated it anyway alongside the three genuinely-08-31 dishes; logged here under the week it was actually eaten per the same convention used for CARRIED FROM dishes, and deliberately excluded from the 08-31 average. First Brazilian dish in the kitchen; immediate 5★ hit.
+
+### Harissa Braised Chicken Thighs with Chickpeas & Couscous
+- Week: 2026-09-07
+- Stars: 5/5
+- Cook again: Yes
+- Difficulty: As expected
+- Notes: — **Cross-week attribution, not an 08-31 rating.** Same situation as the Brazilian Steak Bowls above: ledger-annotated `(DROPPED 2026-09-05 — not cooked in this week; CARRIED TO 2026-09-07)` on the 08-31 slate, actually cooked Wed 2026-09-09 per Current_Week.md's day-map. Logged under the week actually eaten, excluded from the 08-31 average. Third harissa/North African serving on file — 3-for-3 at 5★.
+
+### Sesame-Ginger Teriyaki Salmon with Broccoli & Rice
+- Week: 2026-09-07
+- Stars: 5/5
+- Cook again: Yes
+- Difficulty: Easier
+- Reheat quality: Not specified
+- Notes: — Submission (`Rate_Submission_2026-09-07`) predates the 2026-09-18 Reheat-quality field, so no reheat signal for this dish. Third of three dishes actually cooked in the 09-07 week (the other two, Brazilian Garlic Butter Steak Bowls and Harissa Braised Chicken Thighs, were already logged above from last week's cross-week-attribution pass — not re-added here). Salmon's sixth distinct preparation, seventh serving overall, still 100% at 4★+.

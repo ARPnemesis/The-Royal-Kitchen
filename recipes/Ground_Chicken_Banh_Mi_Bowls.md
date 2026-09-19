@@ -11,14 +11,17 @@
 - Fresh cilantro
 - 1 lime, half juiced / half wedges
 - Sauce for chicken: 2 tbsp soy sauce (pantry) + 1 tbsp fish sauce (pantry) + 1 tbsp brown sugar (pantry) + 2 cloves garlic (pantry)
-- Sriracha yogurt drizzle: 3 tbsp Greek yogurt + 1 tbsp sriracha + squeeze of lime
+- Sriracha mayo: 3 tbsp mayonnaise + 1 tbsp sriracha + squeeze of lime
 
 ## Method
 1. Toss carrots and half the cucumber with rice vinegar and sugar; set aside to quick-pickle.
 2. Whisk the chicken sauce. Brown ground chicken in a skillet over medium-high, breaking it up, 6–8 min. Add sauce and cook 2–3 min until glazed.
-3. Stir the sriracha yogurt drizzle.
-4. Build bowls: rice, chicken, pickled veg, fresh cucumber, scallions, cilantro. Drizzle with sriracha yogurt and finish with a squeeze of lime.
+3. Stir together the sriracha mayo.
+4. Build bowls: rice, chicken, pickled veg, fresh cucumber, scallions, cilantro. Drizzle with sriracha mayo and finish with a squeeze of lime.
 
 ## Notes
+- **Reheat: microwave, covered, 90 sec**, or skillet over medium 3 min. Keep the fresh veg and drizzle off to the side until after reheating.
+- Yield: ~2 meals (1 dinner + 1 lunch).
 - The quick pickle needs only 10–15 min; start it first.
-- Fish sauce is the savory backbone — don't skip it.
+- **Identity ingredient: fish sauce** — it's the savory backbone of the sauce; don't skip it.
+- Swapped the sriracha-yogurt drizzle for sriracha mayo this build — zero Greek yogurt in any sauce body this week.

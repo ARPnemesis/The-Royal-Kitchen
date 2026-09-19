@@ -31,15 +31,13 @@
 ## Auto-Generated: Discovered Preferences
 *Updated by The Critic each Friday based on your ratings. Do not edit.*
 
-*Last updated 2026-09-04 12:05 (Friday run, ~5 min after the 12:00 PM slot — no lateness declared). Submission for week of 2026-08-24 (`Rate_Submission_2026-08-24`, doc `1C8K6epH4pROYqglAhwoTfxzy1_iHobAFtOUMC1ldTpw`, created 8/31 10:19 AM — **exactly ONE submission doc for this week, no duplicate revision burst**). Covered **4 of the 4 actually-cooked dishes** — the Turkey Shepherd's Pie carried out of this week (`DROPPED 2026-08-30 — CARRIED TO 2026-08-31`) and correctly excluded, not surveyed. Zero ledger annotations needed, submission matched the slate exactly in both directions. Data below reflects 12 weeks of ratings (06-08 through 08-24 — **51 dish ratings on file**).*
+*Last updated 2026-09-18 ~12:10 PM (Friday run, ~5–10 min after the 12:00 PM slot — no lateness declared). Submission for week of 2026-09-07 (`Rate_Submission_2026-09-07`, doc `1GSdHREhHlkFtlYRTksOLpgl_TdWnndd9p6TS6ycN5fs`, created 2026-09-14T15:46:08Z — **exactly ONE submission doc for this week, no duplicate revision burst, independently confirmed via fresh `search_files`**). Ledger-confirmed **3 dishes actually cooked in the 09-07 week: Brazilian Garlic Butter Steak Bowls, Harissa Braised Chicken Thighs with Chickpeas & Couscous, Sesame-Ginger Teriyaki Salmon with Broccoli & Rice** — submission rates exactly these 3, dish-for-dish, **zero slate/submission mismatch this pass**. The first two were already logged to `Recipe_Ratings.md` under Week 2026-09-07 last Friday (cross-week attribution from the 08-31 processing pass, per CR-E) — **not re-added**, per the dedup-by-week rule; only **Sesame-Ginger Teriyaki Salmon** is new this pass. **Zero blank required fields, zero substitutions, zero dishes disqualified by reheat quality.** The submission predates the 2026-09-18 Reheat-quality field (created 09-14, field shipped 09-18), so all three dishes carry `Reheat quality: Not specified` — expected transitional-week gap, not an error; `System\Proven_Reheaters.md` created fresh this pass (bootstrap template, no entries yet). Data below reflects 14 weeks of ratings (06-08 through 09-07 — **57 dish ratings on file**, 50 of 57 at 4★+, 87.7%).*
 
-> **WEEK 08-24 — FOUR DISHES, AVERAGE 4.5.** Not a full five-dish week (the Shepherd's Pie carried into 08-31), so it isn't directly comparable to the recent five-dish weeks, but it's still a strong outing: 3★, 5★, 5★, 5★. **All four "Cook again: Yes."** Difficulty: three "easier," one "as expected" — the streak of zero "harder than described" now extends to 22 straight dishes. **Zero blank required fields.** One dish (Vietnamese Lemongrass Pork Meatball Bowls) carries a genuine complication — see below — but it is a recipe-execution story, not a sourcing failure or a taste rejection.
+> **WEEK 09-07 — SMALLEST NEW-DATA PASS ON FILE: ONE NEW RATING.** Two of the week's three cooked dishes were already captured last Friday via cross-week attribution; only Sesame-Ginger Teriyaki Salmon with Broccoli & Rice is newly logged this pass. All three dishes actually cooked in 09-07 scored 5★, "Cook again: Yes," "As expected" or easier — a clean sweep, continuing the streak from 08-31.
 
 **Highlights this week:**
-- **Chicken Karahi with Basmati & Naan — 5★, NEW DISH.** First Karahi on file, immediate hit, zero substitutions, no reheat complaint despite being a sauce-based dish — notable given the yogurt/cream reheat problems seen elsewhere in Indian-adjacent dishes.
-- **Jamaican Jerk Chicken Thighs with Coconut Rice & Black Beans — 5★ (2nd serving).** Matches its 07-27 debut exactly (also 5★, "dish of the week" then) — now a confirmed repeat-worthy favorite, not a one-off high note.
-- **Cajun Dirty Rice Skillet with Ground Beef & Andouille — 5★, NEW DISH.** First clean Cajun win on file — no dairy sauce, no shrimp, no reheat complaint. Reinforces that the Cajun seasoning itself has never been the failure point (see Cajun cuisine note below).
-- **Vietnamese Lemongrass Pork Meatball Bowls — 3★.** ⚠️ **Not a fair test of the recipe, for a new reason.** Sean had the lemongrass paste this time — no sourcing failure — but "forgot to incorporate it into the meatballs." This is the *second* consecutive serving of this dish with no real lemongrass in the finished product (07-27: substituted lemon pepper; 08-24: omitted by accident) and it scored *lower* this time (3★ vs. 4★). The dish has never actually been tasted as designed. Do not read the 3★ as a verdict on the recipe, do not Watch-List it (Cook again was Yes), and do not recycle it again until lemongrass actually makes it into the bowl. A separate lettuce complaint in the same note is a shopping-list request, not a recipe issue — see Harvested Facts.
+- **Sesame-Ginger Teriyaki Salmon with Broccoli & Rice — 5★, NEW DISH.** Came in *easier* than described. Salmon's sixth distinct preparation and seventh serving overall — still 100% at 4★+, the kitchen's most reliable protein.
+- *(Brazilian Garlic Butter Steak Bowls and Harissa Braised Chicken Thighs — both 5★, attributed to this week — were already folded into last week's highlights; not repeated here.)*
 
 **High-rated dishes (4–5 ★):**
 - Chicken Shawarma Bowl — 5★ ("Amazing!!")
@@ -55,7 +53,7 @@
 - Southwest Turkey & Black Bean Stuffed Sweet Potatoes — 5★ ("very delicious")
 - Garlic Butter Chicken Thighs & Broccoli — 5★ ("love this dish"; Sean added pasta and par-boiled the broccoli — keep both mods)
 - Korean Beef Bulgogi Bowls — 5★ ("easy and delicious"; came in easier than described)
-- Salmon Tacos with Mango-Corn Salsa — 5★ ("Sofa king delicious. 10/10")
+- Salmon Tacos with Mango-Corn Salsa — 5★ ×2 (07-13, "Sofa king delicious. 10/10"; 08-31, repeat, still 5★) — confirmed recycle-worthy
 - Italian Sausage, White Bean & Spinach Skillet — 5★ ("so delicious"; the warmed baguette used as a sauce-sopper was the standout)
 - Chimichurri Flank Steak with Charred Corn & Tomato Salad — 5★ ("love chimichurri"; the lime-softened onion salad landed too)
 - Jamaican Jerk Chicken Thighs with Coconut Rice & Black Beans — 5★ ("WOW! I'm still dreaming about this dish") — strongest single note on file
@@ -72,6 +70,11 @@
 - **Chicken Karahi with Basmati & Naan — 5★ — NEW.** First Karahi on file; immediate hit, zero substitutions.
 - **Jamaican Jerk Chicken Thighs with Coconut Rice & Black Beans — 5★ — 2nd serving, matches its 07-27 debut exactly.**
 - **Cajun Dirty Rice Skillet with Ground Beef & Andouille — 5★ — NEW.** First clean (no dairy, no shrimp) Cajun win on file.
+- **Turkey Shepherd's Pie with Cheddar-Chive Mash — 5★ — NEW.** Carried in from 08-24, cooked/rated for 08-31. First British-comfort dish on file.
+- **Hawaiian-Style Turkey Meatballs with Pineapple Fried Rice — 5★ — NEW.** First Hawaiian/Pacific dish on file.
+- **Brazilian Garlic Butter Steak Bowls — 5★ — NEW (attributed to week 09-07).** First Brazilian dish on file.
+- **Harissa Braised Chicken Thighs with Chickpeas & Couscous — 5★ (attributed to week 09-07).** Third harissa/North African serving — 3-for-3 at 5★.
+- **Sesame-Ginger Teriyaki Salmon with Broccoli & Rice — 5★ — NEW.** Came in easier than described. Salmon's sixth distinct preparation, still undefeated at 4★+.
 - Gochujang Ground Turkey Bowl — 4★ (great flavor; oyster sauce smell a minor knock)
 - Harissa Chicken & Chickpea Sheet-Pan Bowls — 4★
 - Egg Roll in a Bowl (Ground Pork) — 4★
@@ -102,13 +105,16 @@
 - **Caribbean / Jamaican jerk — 5★ avg over 2 — UPDATED.** Jamaican Jerk Chicken Thighs served twice (07-27, 08-24), 5★ both times — a confirmed repeat-worthy favorite, not a one-off high note.
 - **Pakistani/Indian (Karahi) — NEW, 5★ (1 dish).** Chicken Karahi's first outing was an immediate hit with zero substitutions and, notably, no reheat complaint despite being sauce-based — worth watching as a possible answer to the yogurt/cream reheat problem seen in the Butter Chicken entries.
 - American comfort — **5★ avg over 8 dishes — UPDATED.** Added Philly Cheesesteak Hoagies (5★) this week — still the broadest and most consistent winner, and the format closes a standing request.
-- **Moroccan / North African — 5★ avg over 2 — UPDATED.** Previously one dish (cooked with beef, not lamb); this week's Harissa-Honey Salmon adds a second 5★, this time with zero substitution. A cuisine worth continuing to expand.
+- **Moroccan / North African — 5★ avg over 3 — UPDATED.** Adds this week's Harissa Braised Chicken Thighs (5★, attributed to 09-07) to the Moroccan Ground Lamb/Beef Skillet and Harissa-Honey Salmon — now 3-for-3 at 5★, zero substitutions on the last two. A cuisine worth continuing to expand.
 - Argentine/South American grill — 5★ (Chimichurri Flank Steak)
 - **Southwest/Tex-Mex — 5★ avg over 2 — UPDATED.** Smoky Chipotle Pork & Black Bean Chili joins Southwest Turkey & Black Bean Stuffed Sweet Potatoes, both 5★.
-- Mexican/Latin — 5★ avg (carne asada 5★, salmon tacos 5★)
+- **Mexican/Latin — 5★ avg over 3 — UPDATED.** Carne Asada 5★, Salmon Tacos 5★ ×2 (07-13 and this week's 08-31 repeat, same score both times).
 - Mexican — chipotle/tinga braise 4★ (Chipotle Chicken Tinga Rice Bowls)
 - **Filipino — NEW, 5★ (1 dish).** First entry in the rotation; immediate hit. Expand here.
 - **Chinese — NEW, 4★ (1 dish).** First entry in the rotation (Mongolian Beef); mild reheat knock, otherwise clean.
+- **British comfort — NEW, 5★ (1 dish).** Turkey Shepherd's Pie with Cheddar-Chive Mash — first outing, immediate hit, zero substitutions.
+- **Hawaiian/Pacific — NEW, 5★ (1 dish).** Hawaiian-Style Turkey Meatballs with Pineapple Fried Rice — first outing, immediate hit, zero substitutions.
+- **Brazilian — NEW, 5★ (1 dish, attributed to week 09-07).** Brazilian Garlic Butter Steak Bowls — first outing, immediate hit, zero substitutions.
 - Mediterranean — 5★ (1 dish, but a standout "best ever")
 - Indian — 5★ (butter chicken ×2; yogurt base works on night one but not on reheat)
 - American comfort / pan-gravy — 5★ (Smothered Pork Tenderloin Medallions). Proven format.
@@ -127,12 +133,12 @@
 - Hungarian — NO DATA. The Goulash was never cooked, and has since been declined a second time. Do not record a cuisine verdict.
 
 **Preferred proteins by rating:**
-- **Salmon — 4.8★ avg over 5 dishes.** Five prep styles, five hits at 4★+ — still the single most reliable protein in the kitchen. No new salmon dish this week.
-- **Beef — 4.77★ avg over 14 dishes — UPDATED.** Added Cajun Dirty Rice Skillet with Ground Beef & Andouille (5★) this week — a clean, no-substitution win. Lomo Saltado (3★/No) remains the only miss.
+- **Salmon — 4.86★ avg over 7 servings (6 distinct preparations) — UPDATED.** Sesame-Ginger Teriyaki (5★, new prep) keeps salmon at a perfect 100% 4★+ record — still the single most reliable protein in the kitchen.
+- **Beef — 4.8★ avg over 15 dishes — UPDATED.** Added Brazilian Garlic Butter Steak Bowls (5★, attributed to week 09-07) — a clean, no-substitution win. Lomo Saltado (3★/No) remains the only miss.
 - Beef chuck / pot roast — 5★ ×3, the most-repeated and most-reliable single cut on file. High yield (~4 portions).
-- **Chicken — 4.70★ avg over 13 dishes — UPDATED.** Added Jamaican Jerk Chicken Thighs (5★, 2nd serving) and Chicken Karahi (5★, new) this week — both clean hits. Greek meatballs (3★/No) remains the only miss overall.
+- **Chicken — 4.71★ avg over 14 dishes — UPDATED.** Added Harissa Braised Chicken Thighs (5★, attributed to week 09-07) — a clean hit. Greek meatballs (3★/No) remains the only miss overall.
 - Italian sausage — 5★ ×2 (skillet and baked pasta). Small sample, but perfect and in two different formats.
-- Ground turkey — 4.25★ avg over 4 dishes. A reliable weeknight workhorse rather than a headline protein.
+- **Ground turkey — 4.5★ avg over 6 dishes — UPDATED.** Added Turkey Shepherd's Pie (5★, carried in from 08-24) and Hawaiian-Style Turkey Meatballs (5★, new) this week — both clean hits, pulling the average up from a prior 4.25.
 - Pasta/dairy (cottage cheese baked ziti) — 5★
 - **Pork — 4.2★ avg over 6 dishes — UPDATED.** Added Vietnamese Lemongrass Pork Meatball Bowls (3★, 08-24) this week — read this as a recipe-execution miss (lemongrass omitted despite being on hand), not a protein or ground-pork issue. Smoky Chipotle Pork & Black Bean Chili (5★, prior week) and the tenderloin-in-gravy (5★) remain the format's high points; whole pork chops (3★/No) remain the only clear pork miss — the chop format, not the protein.
 - Scallops — 4★ (loved fresh, poor reheat — weekend-only protein)
@@ -142,19 +148,15 @@
 - **Chinese/flank steak (Mongolian Beef) — 4★ — NEW.** First outing for flank in a stir-fry format; the only knock is reheat, not taste.
 
 **Notes from The Critic:**
-- Twelve weeks, **51 dish ratings; 44 of 51 at 4★+ (86%)**. Five "Cook again: No" verdicts plus the single 1★ — no new "No" this week (Vietnamese meatballs stayed Yes despite the 3★). **Week 08-24 averaged 4.5 across a four-dish slate** (not a full five — the Shepherd's Pie carried into 08-31); still comfortably ahead of the kitchen's weaker weeks and shows the recent hot streak (08-10 4.4, 07-27 4.6, 08-17 4.8) holding up.
-- 🧂 **THIRD CONSECUTIVE CLEAN-SOURCING WEEK, WITH ONE ASTERISK.** Zero missing ingredients and zero spoilage again. The Vietnamese meatballs are **not** a sourcing failure this time — Sean had the lemongrass paste — so this doesn't break the sourcing streak, but it does mean the dish still hasn't had a genuine test with lemongrass actually in it, two servings running. Keep the hand-built King Soopers cart + sanctioned-fallback practice in place; it's not what failed here.
-- 🌿 **A NEW FAILURE MODE: INGREDIENT ON HAND, NOT USED.** Every prior "missing ingredient" case in this log was a sourcing problem — the store didn't have it, or it didn't make the cart. This week is the first case where Sean had the ingredient and simply forgot to incorporate it during cooking. Worth watching for recurrence; if it happens again on a different dish, it may point to a recipe-card clarity issue (the step easy to miss) rather than pure human error.
-- 🥬 **NEW STANDING REQUEST — SHOPPING LIST SHOULD SPECIFY PRECUT/PREWASHED LETTUCE.** See Harvested Facts. First occurrence, but it's a direct, explicit ask (not an inferred pattern), so it's harvested on the first telling.
-- 🌍 **A SECOND SERVING CONFIRMS A FIRST IMPRESSION.** Jamaican Jerk Chicken Thighs repeated its 07-27 5★ exactly on 08-24 — cuisine and recipe both hold up on a re-run, not just a first-try honeymoon. Worth remembering the next time a single 5★ debut is tempting to over-credit.
-- 🍛 **NEW CUISINE, IMMEDIATE HIT: Chicken Karahi — 5★, the kitchen's first Pakistani/Indian Karahi.** No substitutions, no reheat complaint despite being sauce-based — notable given the Butter Chicken yogurt/cream reheat problem logged earlier. Worth a second data point before concluding Karahi solves the Indian-reheat issue generally.
-- **FORMAT BEATS PROTEIN — NINTH CONFIRMATION, INVERSE DIRECTION.** Cajun Dirty Rice Skillet (5★, ground beef & andouille, no dairy) is now the Cajun cuisine's cleanest result on file, alongside the 1★ dairy-sauce pasta and the 3★ shrimp-reheat bowl. Three Cajun dishes, three different outcomes, and the spice itself has never been the named cause — see cuisine section.
-- 🍽️ **THE POT ROAST IS STILL THE KITCHEN'S ONLY PERMANENT FIXTURE.** 5★ three times, three servings, twelve weeks. Standing request open: mashed potatoes, not egg noodles.
-- **Difficulty estimates remain accurate.** Three of four dishes came back "easier," one "as expected" — the streak extends to **22 straight dishes with no "harder than described."** Still worth watching: if "easier" keeps being the norm, the Chef's difficulty estimates may be running conservative.
-- **Blank fields: none. Dish rated with a true substitution: none this week — the meatballs case is an omission, not a substitution.** Slate/submission mismatch: none — all four actually-cooked dishes were rated, and the ledger-annotated Shepherd's Pie was correctly excluded by both sides. Duplicate submission docs: none — exactly one `Rate_Submission_2026-08-24` found.
-- **Yogurt guidance holds.** ~1 yogurt-forward sauce per week maximum, never as the body of a creamy or spice-forward sauce. Weeks 07-27, 08-03, 08-10 and 08-17 all carry zero.
-- **Sean grades on a curve — reconfirmed.** A 4★ in a strong week is not a demotion. This week's Mongolian Beef 4★ sat alongside four 5★ dishes.
+- Fourteen weeks, **57 dish ratings; 50 of 57 at 4★+ (87.7%)**. Zero new "Cook again: No" verdicts this week — the standing five "No"s plus the single 1★ remain the full list. **Week 09-07 closes at exactly 3 cooked dishes, matching the submission dish-for-dish — no mismatch, no ordering hazard this time.**
+- ✅ **DEDUP-BY-WEEK CHECK WORKED EXACTLY AS DESIGNED.** Last week's prediction (that this 09-18 pass would find Brazilian Garlic Butter Steak Bowls and Harissa Braised Chicken Thighs already logged under 09-07) held: both were present in `Recipe_Ratings.md` from the prior cross-week-attribution pass and were **not** re-added when this week's submission rated them again. Only Sesame-Ginger Teriyaki Salmon with Broccoli & Rice was genuinely new this pass — the smallest single-Friday data addition on record (1 new rating).
+- 🍳 **BATCH-COOK MODEL TRANSITION — FIRST WEEK UNDER THE NEW RULES, BUT THIS SUBMISSION PREDATES THEM.** `Rate_Submission_2026-09-07` was created 2026-09-14, four days before the CR-2026-09-18 rollout (11:17 AM today) that added the Reheat-quality and Servings-check fields to the rating form. All three dishes this pass carry `Reheat quality: Not specified` — an expected one-time gap, not a data-quality error. `System\Proven_Reheaters.md` created fresh this pass per the new prompt; empty bootstrap state (no held-up/acceptable or degraded entries yet) since no dish this cycle carried reheat data. The next submission (for week 09-14, due after tonight's Chef build) will be the first under the new form.
+- 🧂 **FIFTH CONSECUTIVE CLEAN-SOURCING WEEK.** Zero missing ingredients, zero substitutions, zero spoilage across all three rated dishes.
+- **Difficulty estimates remain accurate.** All three dishes this cycle came back "as expected" or easier — zero "harder than described" — the accuracy streak continues.
+- **Blank fields: none beyond the always-empty Notes (recorded as "—"). Dish rated with a true substitution: none. Slate/submission mismatch: none** — submission and ledger agree exactly on the 3 dishes cooked. Duplicate submission docs: none — exactly one `Rate_Submission_2026-09-07` found (confirmed independently via fresh `search_files`, not just the Manager's log note).
+- **Yogurt guidance holds.** ~1 yogurt-forward sauce per week maximum, never as the body of a creamy or spice-forward sauce. This week carries zero.
 - Never-cooked, no no-repeat penalty, but **twice declined and off the board**: Hungarian Beef Goulash and Korean Braised Chicken & Potatoes (Dak-Dori-Tang). Sean said plainly on 08-14: *"i dont want the goulash or the korean beef braise."* Treat both as soft passes, not live reuse candidates. The early-reuse pool is empty.
+- 🍽️ **THE POT ROAST IS STILL THE KITCHEN'S ONLY PERMANENT FIXTURE.** 5★ three times, three servings, thirteen weeks. Standing request open: mashed potatoes, not egg noodles.
 - Garlic-butter chicken + broccoli remains 2-for-2 at 5★; adopt Sean's mods (pasta added, broccoli par-boiled) into the card.
 - Sauce-sopper insight still open: warmed baguette slices around the rim of the bowl. Reuse on saucy skillet/stew dishes.
 

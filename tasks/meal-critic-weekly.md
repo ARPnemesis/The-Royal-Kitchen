@@ -21,7 +21,7 @@ c) **If the newest submission is for an OLDER week than PREVIOUS_WEEK, or none e
    - Queue an URGENT ntfy: title "Kitchen Alert", message "No ratings submitted for week of [PREVIOUS_WEEK] - the Critic scored nothing and tonight's menu is being built without a briefing." (plain ASCII title).
    - Log ⚠️ Partial with the reason, and state in your handoff notes: **"@Chef — no Critic briefing this week; build from Preferences.md and Recipe_Ratings.md alone."**
    - Then stop. A missing week is a fact to report, not a gap to paper over.
-d) If the state is LANDED and the week matches, read the doc in full and continue. Overwrite E:\Seans_Royal_Kitchen\Rate_This_Week.md with the submission contents (already in dish / Stars / Cook again / Difficulty / Notes format).
+d) If the state is LANDED and the week matches, read the doc in full and continue. Overwrite E:\Seans_Royal_Kitchen\Rate_This_Week.md with the submission contents (already in dish / Stars / Cook again / Difficulty / Reheat quality / Notes format — see CR-2026-09-18 note below).
 
 1. READ THE RATING FORM (and know what was ACTUALLY cooked)
    - Use PREVIOUS_WEEK from E:\Seans_Royal_Kitchen\System\Current_Week.md (the week just finished) for all entries below.
@@ -32,17 +32,19 @@ d) If the state is LANDED and the week matches, read the doc in full and continu
      - **On the slate but not in the submission:** report the dish as unrated by name; carry it forward as unrated rather than dropping it or inferring a score.
      - Either way, say plainly in your log entry and in Lessons Learned that the slate and the submission disagreed, and how you resolved it.
    - Day assignments are NOT stored in the ledger (CR-B) — if you need to know which night a dish was cooked, derive it from live calendar events, not from the ## Notes prose.
-   - Read E:\Seans_Royal_Kitchen\Rate_This_Week.md. Parse each dish: Stars (1–5), Cook Again (yes/no), Difficulty, Notes.
+   - Read E:\Seans_Royal_Kitchen\Rate_This_Week.md. Parse each dish: Stars (1–5), Cook Again (yes/no), Difficulty, Reheat quality, Notes. Also parse the whole-week **Servings check** line near the top of the doc if present.
 
 1.5 PARSING RULES — NEVER INVENT A VALUE (a field you did not read is UNKNOWN, and unknown is something you REPORT, not something you resolve)
    - BLANK `Cook again?`: record `Cook again: Not specified` (this value already has precedent in Recipe_Ratings.md). Do NOT infer "yes" from a high star rating, do NOT read the empty string as "no" (that would invert a 5★ dish), and do NOT skip the dish — log the stars and notes it does have. A `Not specified` NEVER counts as "No" for the Watch List; Watch-Listing requires an explicit No, or 1–2★. Live precedent: Philly Cheesesteak Stuffed Peppers, week 07-27 — 5★, enthusiastic note, blank Cook again.
    - BLANK Stars: do not log the dish at all; count it as unrated.
    - BLANK Difficulty: use "As expected" (the neutral value) but note the blank. BLANK Notes: "—".
+   - **BLANK or ABSENT Reheat quality (CR-2026-09-18): record `Reheat quality: Not specified`.** This field was added 2026-09-18 — any submission from before that date, or any dish Sean didn't reheat (ate same night), will legitimately have no answer here. Absence is NOT an error and needs no flag; it just means you have no signal either way for that dish this week.
+   - **🛑 REHEAT-QUALITY OVERRIDE — "degraded" beats the star score, always.** A dish rated 5★ fresh but marked `Reheat quality: degraded` is DISQUALIFIED from the Recycle Candidates list in STEP 4 regardless of stars — the batch-cook model depends on a dish holding up for 3+ days, and a great fresh dish that falls apart on day 2 fails the model's actual requirement even though Sean loved it the night he cooked it. Say so explicitly in Lessons Learned: name the dish, its star score, and that reheat quality is what disqualified it. Do NOT silently drop it from the list — a human reading Lessons Learned needs to see the tension, not just the verdict. "held up" or "acceptable" reheat quality does not itself qualify a dish (stars/cook-again still govern normal recycling) — this rule only ever DISQUALIFIES, never promotes.
    - RATED WITH SUBSTITUTION: when the notes describe a missing or substituted ingredient, Sean cooked a DIFFERENT dish than the card and rated that. Append `**Rated with substitution:** [what was missing / what replaced it]` to the Notes in Recipe_Ratings.md, and do NOT let that score alone move the dish to the Watch List or trigger a format ban — a low score on a recipe Sean couldn't actually shop for is evidence about the supply chain, not the recipe. Say so in Lessons Learned so the Chef can re-serve it as intended. (Live precedents: Spanish Shrimp & Chorizo Paella rated 4★ cooked WITHOUT the chorizo; Vietnamese Lemongrass Pork Meatballs rated 4★ with NO lemongrass, which Sean suspects is the whole gap between its 4 and a 5.)
    - RELATIVE SCORING IS REAL: Sean grades on a curve within a week ("a lot of fire dishes this week, so when comparing to the others, this one was less special"). Do not treat a single 4★ in a strong week as a demotion.
    - DON'T BLAME THE PROTEIN FIRST — format beats protein five times over in the record (pork chops missed / ground pork fine; Lomo Saltado missed / all other beef 5★; tzatziki meatballs missed / chicken otherwise 5★; Cajun shrimp pasta 1★ / shrimp later 4★ in the Paella). Attribute a failure to the format, sauce or technique named in the notes before concluding anything about an ingredient.
    - **BUT WHEN SEAN GENERALIZES TO THE INGREDIENT HIMSELF, THAT OUTRANKS THE FORMAT-FIRST RULE.** Format-first is a guard against *you* over-inferring from one dish; it is not a reason to overrule Sean's own stated conclusion. Live case: after the Cajun Honey-Butter Shrimp Bowls scored 3★ / cook again NO purely on reheat ("a good dish, but the reheating was awful"), he wrote *"I think shrimp is a no for reheats altogether"* — a second independent shrimp-reheat complaint after the 08-02 Paella ("the microwave and shrimp do not get along, they became rubbery and tough"). Two independent occurrences plus his own generalization is a standing constraint: harvest it to Preferences.md at the INGREDIENT level. Note that this exonerates the recipe, not the protein — the inverse of the Paella read.
-   - Your log entry and Lessons Learned must BOTH name, by dish: every field left `Not specified`, and every dish rated with a substitution. These are the two things that get silently dropped and exactly the two a human needs to see.
+   - Your log entry and Lessons Learned must BOTH name, by dish: every field left `Not specified`, every dish rated with a substitution, and every dish disqualified by reheat quality. These are the three things that get silently dropped and exactly the ones a human needs to see.
 
 2. APPEND TO RATINGS LOG
    - Read E:\Seans_Royal_Kitchen\System\Recipe_Ratings.md. For each dish with at least a star rating, append:
@@ -51,8 +53,25 @@ d) If the state is LANDED and the week matches, read the doc in full and continu
      - Stars: X/5
      - Cook again: Yes / No / Not specified
      - Difficulty: [value]
+     - Reheat quality: [held up / acceptable / degraded / Not specified]
      - Notes: [value or "—"]
    - Use the dish name exactly as the Chef wrote it in the menu file, so the Chef's no-repeat matching works. Write it back. Skip dishes already logged for that same week (no duplicates).
+
+2.5 MAINTAIN `System\Proven_Reheaters.md` (new file, CR-2026-09-18 — the accumulating asset of the batch-cook model)
+   This file is what lets the Chef pick proven-reheating dishes without re-deriving it from scratch every Friday. Read it first (create it fresh with the template below if it doesn't exist yet — expected on your first pass after 2026-09-18, since the Chef won't have run under the new rules yet).
+   - For each dish this week with a Reheat quality of **held up** or **acceptable**: add or update its entry under "## Held Up / Acceptable" — dish name, style (from the menu file), servings made (from Current_Week.md's servings figure if present, else "not recorded"), active time (from the recipe file if present, else "not recorded"), freeze/thaw result ("not yet tested" unless Sean's notes say otherwise), Reheat quality, date last cooked = PREVIOUS_WEEK's cook date. If the dish already has an entry, UPDATE it in place (most recent result wins) rather than duplicating.
+   - For each dish with a Reheat quality of **degraded**: add or update its entry under "## Excluded — Degraded on Reheat" — dish name, Reheat quality: degraded, Reason (a short excerpt from the notes explaining what went wrong, e.g. "shrimp went rubbery on reheat"), date last cooked. This is what STEP 4's Recycle Candidates check reads before recommending a dish.
+   - Dishes with `Reheat quality: Not specified` this week are NOT added or changed in this file — no data means no data, don't guess.
+   - Template for a fresh file:
+     # Proven Reheaters
+     *Maintained by The Critic (CR-2026-09-18). Dishes confirmed to hold up (or not) on reheat after 2+ days. The Chef reads this before selecting batch-cook candidates.*
+
+     ## Held Up / Acceptable
+     (none yet)
+
+     ## Excluded — Degraded on Reheat
+     (none yet)
+   - Say in your Kitchen Log handoff notes how many dishes you added/updated in each section this pass, or "no reheat-quality data this week" if every dish came back Not specified (expected on early passes before the batch model's rated weeks accumulate).
 
 3. ANALYZE & UPDATE PREFERENCES
    - Read full Recipe_Ratings.md. Identify patterns (top/least-liked, proteins that score well, difficulty mismatches, "Cook again: No" items).
@@ -67,11 +86,11 @@ d) If the state is LANDED and the week matches, read the doc in full and continu
 
 4. WRITE LESSONS LEARNED
    - Create E:\Seans_Royal_Kitchen\Lessons_Learned_Week_of_[PREVIOUS_WEEK date].md:
-     a) this week's ratings summary (or "No ratings received"); note dishes dropped/not cooked separately from unrated ones; call out any `Not specified` fields, any dish rated with a substitution, and any slate-vs-submission mismatch
+     a) this week's ratings summary (or "No ratings received"); note dishes dropped/not cooked separately from unrated ones; call out any `Not specified` fields, any dish rated with a substitution, any dish disqualified by reheat quality, any slate-vs-submission mismatch, and the week's Servings check answer if given
      b) running patterns across weeks
-     c) specific recommendations for the Chef — include that dishes marked `(DROPPED … — not cooked)` never hit the table, so the no-repeat window does NOT apply to them (they're eligible for early reuse if they still fit preferences)
+     c) specific recommendations for the Chef — include that dishes marked `(DROPPED … — not cooked)` never hit the table, so the no-repeat window does NOT apply to them (they're eligible for early reuse if they still fit preferences); also point the Chef at `System\Proven_Reheaters.md` for reheat-proven candidates
      d) Watch List: dishes rated 1–2★ or an explicit "Cook again: No" — do not recycle (never list a dropped-not-cooked dish here; never list a dish solely on a substitution-depressed score; never list a dish on a blank Cook again; never list a dish whose low score was a logistics failure rather than a taste verdict)
-     e) Recycle Candidates: 4–5★ dishes not served in 4+ weeks
+     e) Recycle Candidates: 4–5★ dishes not served in **3+ weeks** (CR-2026-09-18, was 4+ weeks — the shorter no-repeat window under the batch model means fewer distinct dishes cycle through, so the recycle threshold shortened to match). **Exclude any dish logged as "degraded" in `Proven_Reheaters.md`, even at 4–5★** — see the reheat-quality override in STEP 1.5.
    - Concise — a chef's briefing, not an essay. The Chef reads this at 5 PM.
 
 5. WRITE TO KITCHEN LOG (do not skip — every run must log)
@@ -79,8 +98,8 @@ d) If the state is LANDED and the week matches, read the doc in full and continu
      ### THE CRITIC — [YYYY-MM-DD HH:MM]
      **Status:** ✅ Success / ⚠️ Partial / ❌ Failed [prefix with "ran [N]h[M]m late" if >2 h past your noon slot]
      **Summary:** Processed ratings for the week of [PREVIOUS_WEEK] ([N] of [M actually-cooked] dishes rated; [K] dishes were dropped/not cooked and excluded). Submission precondition: [LANDED / REFUSED — reason]. Submission docs found: [N] (read [ID]).
-     **Handoff notes:** Key recommendation for the Chef; watch list; recycle candidates; early-reuse candidates (dropped, never cooked); any facts harvested into Preferences.md and who they're for.
-     **Issues:** [blank/Not-specified fields by dish; dishes rated with substitution; slate-vs-submission mismatches; duplicate submission docs; or None]
+     **Handoff notes:** Key recommendation for the Chef; watch list; recycle candidates; early-reuse candidates (dropped, never cooked); any facts harvested into Preferences.md and who they're for; **Proven_Reheaters.md: [N] added/updated (held up/acceptable), [M] added/updated (degraded), or "no reheat-quality data this week"**.
+     **Issues:** [blank/Not-specified fields by dish; dishes rated with substitution; dishes disqualified from recycling by reheat quality; slate-vs-submission mismatches; duplicate submission docs; or None]
    - SAFE WRITE (required — a naive read-then-rewrite destroyed two log entries on 2026-08-01): compose your entry FIRST; read Kitchen_Log.md IMMEDIATELY before writing and never reuse an earlier read; read it twice a few seconds apart and confirm the content is identical before proceeding (if it changed, another task is mid-write — wait ~15 s and retry; after three mismatches SKIP the write and report the collision rather than clobbering); insert your entry by ANCHORED EDIT directly above the first `### ` header instead of rewriting the whole file; then verify BOTH that your entry is now the newest header AND that the previously-newest header is still present. If you ran twice today, amend or explicitly supersede your earlier entry — never leave two entries describing different runs.
 
 COOKBOOK: E:\Seans_Royal_Kitchen\ | SYSTEM: E:\Seans_Royal_Kitchen\System\ | LEDGER: E:\Seans_Royal_Kitchen\System\Current_Week.md
