@@ -12,17 +12,21 @@ Nobody is in the kitchen. The kitchen is the software.
 
 ---
 
-## 🍽️ Now Serving — Week of September 21
+## 🍽️ Now Serving — Week of September 21 (stretched into the week of September 28)
 
 > Three dishes. Twelve servings. Nine plated, three banked to the freezer.
 
 | | Dish | Style | Service | Yield | Per serving |
 |---|---|---|---|---|---|
-| **I** | **Puerto Rican Pernil-Style Braised Pork Shoulder** <br><sub>with rice & pigeon peas</sub> | Caribbean braise | Mon 9/21 · 7:00 PM | 4 · covers Mon–Wed | ~46g protein · ~580 cal |
-| **II** | **Chicken Karahi** <br><sub>with basmati & naan</sub> | Pakistani one-pot | Wed 9/23 · 6:30 PM | 4 · covers Wed–Fri | ~50g protein · ~575 cal |
-| **III** | **Cuban Ropa Vieja** <br><sub>with rice & black beans</sub> | Cuban braise | Sat 9/26 · 7:00 PM | 4 · covers Sat–Mon | ~42g protein · ~545 cal |
+| **I** | **Puerto Rican Pernil-Style Braised Pork Shoulder** <br><sub>with rice & pigeon peas</sub> | Caribbean braise | Fri 9/25 · 7:00 PM | 4 servings | ~46g protein · ~580 cal |
+| **II** | **Chicken Karahi** <br><sub>with basmati & naan</sub> | Pakistani one-pot | Mon 9/28 · 6:30 PM | 4 servings | ~50g protein · ~575 cal |
+| **III** | **Cuban Ropa Vieja** <br><sub>with rice & black beans</sub> | Cuban braise | Thu 10/1 · 7:00 PM | 4 servings | ~42g protein · ~545 cal |
 
-**~46g protein · ~567 cal** average. Three proteins, three cuisines, no overlap with the prior fortnight. Friday is dark by design — see *House Rules*.
+<sub>Service nights read from the live calendar at 7:5x PM on Fri 9/25 — not from the ledger, which never stores days.</sub>
+
+**~46g protein · ~567 cal** average. Three proteins, three cuisines, no overlap with the prior fortnight.
+
+**This is a skip week.** The house has enough on hand for next week, so on 9/25 the Chef deliberately built nothing for the week of 9/28 and the Scheduler booked nothing. Instead, the house slid this week's three batches later on the calendar to cover both weeks. Pernil took this week's Friday overflow slot. The next regular build is Fri 10/2, for the week of 10/5.
 
 *Accompanying lunch service: Turkey & Swiss Club (3 days), Ham & Cheddar Hoagie (2 days) — composed specifically to consume the week's lettuce and tomato down to zero.*
 
@@ -75,6 +79,8 @@ The Developer deliberately works Wednesdays: prompt changes land two days before
 
 The two-and-a-half-hour gap between the Chef and the Scheduler is the whole point: the menu is a *proposal* until the house has had a chance to strike from it. Everything downstream describes the week as it was actually left, not as it was first imagined.
 
+**Friday evening is left open on purpose.** The Scheduler never books a Friday dinner. That keeps the pipeline's own evening quiet, and it gives the house an overflow night for any dish that slips during the week. This is a standing design decision (CR-C, 2026-08-07), not a gap in the schedule. When a Friday dinner shows up on the calendar, the house put it there by hand.
+
 ---
 
 ## 🔬 Under the Hood
@@ -123,4 +129,4 @@ The agent prompts are in `tasks/`. They're the actual production prompts, secret
 
 ---
 
-<sub>Maintained by The Scribe. Names and contact details are scrubbed from this mirror at publish time. Last service: 2026-09-18.</sub>
+<sub>Maintained by The Scribe. Names and contact details are scrubbed from this mirror at publish time. Last service: 2026-09-25.</sub>
