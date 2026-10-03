@@ -50,3 +50,9 @@ This was meant to be the first submission with Reheat-quality and Servings-check
 - Philly Cheesesteak Stuffed Peppers, Bang Bang Salmon Rice Bowls, Weeknight Butter Chicken (yogurt splits on reheat), Italian Sausage White Bean & Spinach Skillet, Chimichurri Flank Steak, Ginger-Sesame Turkey Lettuce Wraps
 - Deep backlog as listed in the 09-07 file.
 - [ledger update] **Mississippi Pot Roast removed** â€” it was cooked in week 09-14, so it is inside the no-repeat window, not a recycle candidate.
+
+---
+
+## Re-confirmed Fri 2026-10-02 12:10 PM MDT (Critic run, on time)
+Still **no ratings for week 2026-09-14**. Fresh Drive search: newest `Rate_Submission_*` is `Rate_Submission_2026-09-07` (created 2026-09-14); no `Rate_Submission_2026-09-14` and no `Rate_Submission_2026-09-21` exist. Manager's last state: BLOCKED (rating dashboard defect, `kings-table-rate-this-week` unchanged since 09-21). Nothing scored; Recipe_Ratings.md, Preferences.md and Proven_Reheaters.md untouched. All lists above are **carried forward, not newly derived**.
+**@Chef â€” no Critic briefing this week; build from Preferences.md and Recipe_Ratings.md alone.**

@@ -1,36 +1,41 @@
 # Baked Rigatoni with Italian Sausage & Ricotta
-*Italian · Weeknight · 50 min (20 min active, 25 min hands-off bake) · ~46g protein · ~595 cal per serving*
 
-## Ingredients (2 servings, generous — this pan yields two dinners plus a lunch)
-- 8 oz rigatoni (dry)
-- 12 oz Italian sausage (hot or sweet), casings removed
-- 1 cup whole-milk ricotta
-- 1 cup shredded low-moisture mozzarella
-- 1/3 cup grated parmesan
-- 1 can (24 oz) crushed tomatoes
-- 2 tbsp tomato paste
-- 1 yellow onion, diced
-- 4 cloves garlic, minced
-- 1 tsp Italian seasoning
-- 1/2 tsp chili flakes
-- 1 tbsp olive oil
-- 1 tsp salt
-- 1/2 tsp black pepper
-- A handful of fresh basil, torn
+*Italian Â· Weeknight Â· ~55 min (~25 min active, 25 min hands-off bake) Â· ~46g protein Â· ~595 cal per serving Â· **4 servings (batch)***
+
+**Rated 5â˜… â€” "Very good! Reheat was great."** The kitchen's best-reheating format: a covered oven reheat rebuilds the bake instead of steaming it.
+
+## Ingredients (4 servings â€” one 9Ã—13 pan)
+- 16 oz rigatoni (dry)
+- 24 oz (1Â½ lb) hot Italian sausage, casings removed (sweet works; keep the full chili flakes)
+- 15 oz whole-milk ricotta (one full tub â€” consumed entirely, Rule 3b)
+- 2 cups (8 oz) shredded low-moisture mozzarella
+- â…” cup grated parmesan
+- 2 cans (28 oz) crushed tomatoes (uses ~48 oz; the rest loosens the sauce)
+- 4 tbsp tomato paste
+- 2 yellow onions, diced
+- 8 cloves garlic, minced
+- 2 tsp Italian seasoning
+- 1 tsp chili flakes
+- 2 tbsp olive oil
+- 2 tsp kosher salt
+- 1 tsp black pepper
+- Â¼ cup fresh flat-leaf parsley, chopped (replaces basil â€” shares the bunch with the Moroccan skillet, Rule 3a)
 
 ## Method
-1. Heat oven to 400°F.
-2. Boil the rigatoni in well-salted water **2 minutes short of al dente** — it finishes cooking in the oven, and pasta boiled to full doneness turns soft in the bake. Drain, reserving 1/2 cup pasta water.
-3. Meanwhile, heat olive oil in a large oven-safe skillet over medium-high. Add sausage, breaking it into rough chunks. Brown 6–7 min — let it sit undisturbed between stirs so it takes on real color.
-4. Add onion and cook 4 min until translucent. Add garlic, Italian seasoning and chili flakes; cook 1 min.
-5. Stir in tomato paste and cook 1 min, then add crushed tomatoes, salt and pepper. Simmer 8 min until slightly reduced.
-6. Add the drained pasta and toss to coat, loosening with pasta water if it looks tight. Kill the heat.
-7. Dollop the ricotta across the top in spoonfuls — **do not stir it in.** The pockets are the point; a stirred-in ricotta just makes a pink sauce.
-8. Scatter mozzarella and parmesan over everything. Bake 20–25 min until bubbling and browned at the edges.
-9. Rest 5 min, then finish with torn basil.
+1. Heat oven to 400Â°F.
+2. Boil rigatoni in well-salted water **2 minutes short of al dente.** Drain, reserve 1 cup pasta water.
+3. Meanwhile, brown sausage in the oil in a large oven-safe pot 7â€“8 min, breaking into chunks.
+4. Add onions, 4 min; garlic, Italian seasoning, chili flakes, 1 min. Stir in paste, 1 min; add tomatoes, salt, pepper; simmer 10 min.
+5. Toss in the pasta, loosening with pasta water. Transfer to a 9Ã—13 baking dish.
+6. Dollop ricotta over the top â€” **do not stir it in.** Scatter mozzarella and parmesan.
+7. Bake 25 min until bubbling and browned. Rest 5 min; finish with parsley.
 
 ## Notes
-- **Reheat: 350°F oven, covered with foil, 15–18 min** (uncover for the last 3 if you want the top to crisp again). This is the format that reheats best in this kitchen — a covered oven reheat rebuilds the bake instead of steaming it, which is exactly why the stuffed peppers landed so well. A microwave works in a pinch (covered, 2–3 min) but you lose the browned top.
-- If you don't have an oven-safe skillet, transfer everything to a 9x9 baking dish after step 6.
-- Hot Italian sausage carries more of the dish than sweet does; if you go sweet, keep the full 1/2 tsp chili flakes.
-- The pasta water is not optional insurance — the ricotta and cheese absorb liquid in the oven, and a sauce that looks perfect in the skillet can read dry after baking.
+- Pasta water is not optional â€” the cheese absorbs liquid in the oven.
+- Cut into 4 equal portions. Portion 4 is frozen on cook day.
+
+## Reheat Notes
+- **Reheat:** 350Â°F oven, covered with foil, 15â€“18 min (uncover last 3 min to re-crisp). Microwave covered 2â€“3 min in a pinch.
+- **Holds:** 4 days refrigerated.
+- **Freezes and reheats well.** Portion 4 â†’ freezer on cook day (wrap tightly in foil + bag). Thaw overnight in the fridge, then reheat as above.
+- **Yield in meals:** 4 dinners (the Monarch has stretched the 2-serving version to 3 meals â€” this batch may reach 5â€“6 lunch-sized portions).

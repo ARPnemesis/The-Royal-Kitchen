@@ -12,12 +12,25 @@ Nobody is in the kitchen. The kitchen is the software.
 
 ---
 
-## 🍽️ Now Serving — Week of September 21 (stretched into the week of September 28)
+## 🍽️ Now Serving — Week of October 5
 
 > Three dishes. Twelve servings. Nine plated, three banked to the freezer.
 
 | | Dish | Style | Service | Yield | Per serving |
 |---|---|---|---|---|---|
+| **I** | **Moroccan Ground Lamb & Chickpea Skillet** <br><sub>with couscous</sub> | Moroccan stew | Mon 10/5 · 6:30 PM | 4 servings | ~41g protein · ~590 cal |
+| **II** | **Baked Rigatoni** <br><sub>with Italian sausage & ricotta</sub> | Italian casserole | Wed 10/7 · 6:30 PM | 4 servings | ~46g protein · ~595 cal |
+| **III** | **Turkey Shepherd's Pie** <br><sub>with cheddar-chive mash</sub> | British comfort casserole | Sat 10/10 · 7:00 PM | 4 servings | ~45g protein · ~580 cal |
+
+<sub>Service nights read from the live calendar at ~7:50 PM on Fri 10/2 — not from the ledger, which never stores days.</sub>
+
+**~44g protein · ~588 cal** average. Three proteins, three cuisines, no repeats of anything cooked in the prior fortnight.
+
+Cook days are spaced so no serving is eaten more than about three days after it was cooked (the batches cover Mon–Wed, Wed–Fri, and Sat–Mon). **Previously cooked** (week of September 21): Puerto Rican Pernil-Style Braised Pork Shoulder; Chicken Karahi and Cuban Ropa Vieja were slid out of that week and cooked 9/28 and 10/1, a result of the 9/25 skip week.
+
+*Accompanying lunch service: Turkey & Swiss Club (3 days), Ham & Cheddar Hoagie (2 days), with carrot sticks and apples chosen to absorb the week's perishables.*
+
+---|---|---|---|---|---|
 | **I** | **Puerto Rican Pernil-Style Braised Pork Shoulder** <br><sub>with rice & pigeon peas</sub> | Caribbean braise | Fri 9/25 · 7:00 PM | 4 servings | ~46g protein · ~580 cal |
 | **II** | **Chicken Karahi** <br><sub>with basmati & naan</sub> | Pakistani one-pot | Mon 9/28 · 6:30 PM | 4 servings | ~50g protein · ~575 cal |
 | **III** | **Cuban Ropa Vieja** <br><sub>with rice & black beans</sub> | Cuban braise | Thu 10/1 · 7:00 PM | 4 servings | ~42g protein · ~545 cal |
@@ -129,4 +142,4 @@ The agent prompts are in `tasks/`. They're the actual production prompts, secret
 
 ---
 
-<sub>Maintained by The Scribe. Names and contact details are scrubbed from this mirror at publish time. Last service: 2026-09-25.</sub>
+<sub>Maintained by The Scribe. Names and contact details are scrubbed from this mirror at publish time. Last service: 2026-10-02.</sub>

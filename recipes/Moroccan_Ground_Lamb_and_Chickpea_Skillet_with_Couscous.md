@@ -1,50 +1,52 @@
 # Moroccan Ground Lamb & Chickpea Skillet with Couscous
 
-*Moroccan / North African · weeknight · 30 min · ~41g protein · ~590 cal*
+*Moroccan / North African Â· weeknight Â· ~35 min (~25 min active) Â· ~41g protein Â· ~590 cal per serving Â· **4 servings (batch)***
 
-**Reheat rating: excellent.** A spiced tomato braise with chickpeas is a day-two dish by design — the cinnamon and cumin round out overnight.
+**Rated 5â˜… (cooked with ground beef â€” King Soopers has no ground lamb).** A spiced tomato braise with chickpeas is a day-two dish by design â€” the cinnamon and cumin round out overnight.
 
-## Ingredients (2 servings)
+## Ingredients (4 servings)
 
 **Skillet**
-- 1 lb ground lamb (85/15 ground beef is a clean swap if lamb reads too strong)
-- 2 tbsp olive oil
-- 1 yellow onion, diced
-- 4 cloves garlic, minced
-- 2 tbsp tomato paste
-- 2 tsp ground cumin
-- 1½ tsp ground coriander
-- 1 tsp ground cinnamon
-- 1 tsp smoked paprika
-- ½ tsp cayenne pepper (or 1 tbsp harissa paste)
-- 1 (14.5 oz) can crushed tomatoes
-- 1 (15 oz) can chickpeas, drained and rinsed
-- 1 cup chicken broth
-- ¼ cup golden raisins (optional but recommended)
-- 1 tsp kosher salt
-- ½ tsp black pepper
+- 2 lb ground beef, 85/15 (ground lamb if you can find it â€” the dish works either way; beef is the sanctioned default)
+- 3 tbsp olive oil
+- 2 yellow onions, diced
+- 8 cloves garlic, minced
+- 4 tbsp tomato paste
+- 4 tsp ground cumin
+- 3 tsp ground coriander
+- 2 tsp ground cinnamon
+- 2 tsp smoked paprika
+- 1 tsp cayenne pepper (or 2 tbsp harissa paste)
+- 1 can (28 oz) crushed tomatoes
+- 2 cans (15 oz) chickpeas, drained and rinsed
+- 2 cups chicken broth
+- Â½ cup golden raisins
+- 2 tsp kosher salt
+- 1 tsp black pepper
 
-**To serve**
-- 1 cup dry couscous
-- 1 tbsp olive oil
-- 2 lemons (juice for the couscous, wedges to serve)
-- ¼ cup slivered almonds, toasted
-- ¼ cup fresh mint, torn
-- 2 tbsp fresh parsley, chopped
+**To serve (made fresh each meal â€” do not batch the couscous)**
+- 2 cups dry couscous (Â½ cup dry per serving, 4 servings)
+- 2 tbsp olive oil
+- 4 lemons (juice of 2 for the couscous, 2 cut in wedges)
+- Â½ cup slivered almonds, toasted
+- Â¼ cup fresh flat-leaf parsley, chopped (mint is cut this week â€” it would be an orphan perishable)
+- 1 baguette, sliced and warmed â€” the Monarch's sauce-sopper: stand slices around the rim of the bowl
 
 ## Method
-
-1. **Brown the lamb.** Heat 1 tbsp olive oil in a large skillet over medium-high. Add the lamb, break it into large chunks, and let it sit undisturbed 3 minutes to crust before stirring. Cook 6 minutes total. If there's more than a tablespoon of fat in the pan, spoon some off.
-2. **Aromatics.** Push the lamb aside, add the remaining oil and the onion, cook 4 minutes. Add the garlic and cook 30 seconds.
-3. **Bloom the spices.** Add the cumin, coriander, cinnamon, smoked paprika, and cayenne directly into the hot fat and stir 45 seconds — this is where the dish gets its depth. Add the tomato paste and cook 1 more minute until it turns brick red.
-4. **Simmer.** Add the crushed tomatoes, chickpeas, chicken broth, raisins, salt, and pepper. Bring to a simmer and cook uncovered 12–15 minutes, stirring occasionally, until it thickens to a stew that holds a spoon-drag for a second.
-5. **Couscous.** While it simmers: bring 1¼ cups water to a boil with a pinch of salt and 1 tbsp olive oil. Kill the heat, stir in the couscous, cover, and leave it 5 minutes. Fluff with a fork and stir in the juice of 1 lemon.
-6. **Toast the almonds** in a dry pan over medium, 2–3 minutes, shaking constantly — they go from pale to burnt fast.
-7. **Serve.** Couscous down, skillet over it, then almonds, mint, parsley, and a lemon wedge. The lemon at the table is not optional; it cuts the richness.
+1. **Brown the beef.** Heat 1 tbsp oil in a large Dutch oven or deep skillet over medium-high. Add beef in large chunks; leave undisturbed 3 min to crust, then cook ~7 min total. Spoon off fat beyond ~2 tbsp.
+2. **Aromatics.** Push beef aside, add remaining 2 tbsp oil and onions; cook 4 min. Add garlic, 30 sec.
+3. **Bloom the spices.** Add cumin, coriander, cinnamon, paprika, cayenne to the hot fat; stir 45 sec. Add tomato paste, cook 1 min until brick red.
+4. **Simmer.** Add crushed tomatoes, chickpeas, broth, raisins, salt, pepper. Simmer uncovered 15â€“18 min, stirring occasionally, until it holds a spoon-drag.
+5. **Cool and portion** (see Reheat Notes). Make couscous only for the portion you're eating: Â½ cup dry couscous in 5/8 cup boiling water with a pinch of salt and a drizzle of oil; cover 5 min, fluff, stir in a squeeze of lemon.
+6. **Toast the almonds** in a dry pan, 2â€“3 min, shaking constantly.
+7. **Serve** couscous, skillet over it, almonds, parsley, lemon wedge, warm baguette around the rim.
 
 ## Notes
+- Cinnamon is the load-bearing flavor â€” a full 2 tsp at this batch size is correct.
+- Chickpea stew is a day-two dish; it tastes better on Tuesday than Monday.
 
-- **Cinnamon in a savory dish** is the load-bearing flavor here, not a garnish — a full teaspoon is correct.
-- Ground lamb runs fattier than beef. Draining some fat after browning keeps this under 600 cal without costing flavor.
-- Warmed pita or crusty bread on the side works as well as it did with the Italian sausage skillet — stand the slices around the rim of the bowl.
-- **Day two:** reheat the skillet portion covered with a splash of broth. Store the couscous separately so it doesn't turn to paste; refresh it with a squeeze of lemon.
+## Reheat Notes
+- **Reheat:** skillet portion, microwave covered 2â€“3 min with a splash of broth, or stovetop over medium-low 5 min. **Store the couscous separately â€” better yet, make it fresh (5 min).** Refresh with a squeeze of lemon.
+- **Holds:** 4 days refrigerated (skillet only, no couscous).
+- **Freezes and reheats well** (skillet only â€” NOT the couscous). **Portion 4 goes to the freezer on cook day.** Thaw overnight in the fridge, reheat covered with a splash of broth.
+- **Yield in meals:** 4 dinners (stretches toward 5 with lunch-size portions).
